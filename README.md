@@ -1,3 +1,3 @@
-# Kokoa Clone 2021 Update
+# Kakao Clone!
 
-HTML & CSS are so much fun!
+Imitation is fun!
